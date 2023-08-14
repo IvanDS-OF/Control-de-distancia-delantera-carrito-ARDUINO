@@ -32,7 +32,7 @@ En cuanto al ámbito escolar, se busca una asimilación de la importancia de os 
 El carrito que se entrega al final del curso se realiza con MDF _(Medium Density Fiberboard)_. El diseño del carrito se realiza en **SolidWorks 2020**, la programación se realiza en **Arduino**.
 
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Images/14.png)
 
 
 
