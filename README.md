@@ -32,13 +32,40 @@ En cuanto al ámbito escolar, se busca una asimilación de la importancia de os 
 El carrito que se entrega al final del curso se realiza con MDF _(Medium Density Fiberboard)_. El diseño del carrito se realiza en **SolidWorks 2020**, la programación se realiza en **Arduino**.
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Images/14.png)
+![Diseño y simulación de aspecto del carrito en SolidWorks.](Images/14.png)
+
+Dentro del diagrama podemos observar los siguientes elementos:
+
++ Arduino UNO (cuadro azul)
+
++ Puente H (cuadro rojo)
+
++ Llantas con Motorreductores
+
++ Estructura de MDF
+
+### Programación 
+
+La programación es relaativamente sencilla. Podemos ver el diagrama de flujo del programa que se realizó en ARDUINO en la soguiente imagen. 
+
+![Diagrama de flujo](Images/Diagrama1.png)
+
+### Final
+
+Por último podemos ver el resultado en físico del proyecto terminado y armado. 
+
+![Carrito terminado](Images/im3.jpeg)
+
+Igualmente, en e siguiente link podemos ver el funcionamiento deseado del controlador. 
+
+[Video del carrito](https://www.youtube.com/watch?v=6mszPVwZKWs)
 
 
+# Conclusión del proyecto
 
+Podemos concluir que la lógica difusa se puede utilizar cuando la complejidad del proceso requiere de modelos matemáticos bastante tardados de describir. cuando existen definiciones y conceptos que estrictamente nose pueden definir con facilidad. pero que igualmente es necesario controlar de alguna forma. 
 
-
-
+Los objetivos se cumplieron con éxito. El desarrollo del controlador difuso _(Una entrada, Una salida)_, una vez entendido, fue fécil de implementar. Gracias al apoyo y mentoría del docente Angel Ortega, el proyecto tuvo la evolución y desarrollo esperado. 
 
 
 
