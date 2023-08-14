@@ -1,8 +1,8 @@
 # Control-de-distancia-delantera-carrito-ARDUINO
 
-```
-Este proyecto fue realizado para la materia **Controladores Hibridos** de la carrera **Ingeniería en AUtomatización y Autotrónica** para **8vo semestre**
-```
+
+> Este proyecto fue realizado para la materia **Controladores Hibridos** de la carrera **Ingeniería en AUtomatización y Autotrónica** para **8vo semestre**
+
 
 # Introducción 
 
