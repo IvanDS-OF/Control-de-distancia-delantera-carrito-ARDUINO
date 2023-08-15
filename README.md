@@ -58,7 +58,7 @@ Por último podemos ver el resultado en físico del proyecto terminado y armado.
 
 Igualmente, en e siguiente link podemos ver el funcionamiento deseado del controlador. 
 
-[Video del carrito](https://www.youtube.com/watch?v=6mszPVwZKWs)
+[Video del carrito](https://youtu.be/Ss8hQEN0wlQ)
 
 
 # Conclusión del proyecto
